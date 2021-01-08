@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 A visit to Taung Wine Sanctuary in Hpa-An.  
-![Taung Wine Sanctuary](TaungWineSanctuary.PNG)
+![Taung Wine Sanctuary](TaungWineSanctuary.JPG)
 
 <!--
 **sawthinkar/sawthinkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
