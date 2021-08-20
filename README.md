@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Taung Wine Sanctuary, Hpa-An.  
+Taung Wine Sanctuary, Hpa-An, Kayin State.   
 ![Taung Wine Sanctuary](TaungWineSanctuary.JPG)
 
 <!--
